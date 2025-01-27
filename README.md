@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abitha Amirthalingam</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="WhatsApp Image 2025-01-23 at 11.06.06" alt="abi" /> </p>
+<p align="left"> <img src="WhatsApp Image 2025-01-23 at 11.06.07.jpeg" alt="abi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasiksifran17" alt="aasiksifran17" /></a> </p>
 
