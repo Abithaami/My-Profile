@@ -1,6 +1,6 @@
 
 # Hello, Folks! 👋 <br>
-<center><img src="git hub profile photo new.jpg"></center>
+<center><img src="WhatsApp Image 2025-01-23 at 11.06.07 (1).jpeg"></center>
 <h1 align="center">Hi 👋, I'm Abitha Amirthalingam</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
